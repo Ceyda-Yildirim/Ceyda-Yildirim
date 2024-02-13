@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ceyda-Yildirim
-- 👀 I’m interested in programming and nature
-- 🌱 I’m currently learning computer science in Bilkent University and I am a freshman
+- 👀 I’m interested in programming and nature.
+- 🌱 I’m currently learning computer science in Bilkent University and I am a freshman.
 - 📫 How to reach me ceyyildirim3@gmail.com
 
 <!---
